@@ -1,13 +1,6 @@
 
 
-<div>
 
-</div>
-
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./../images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
 
 [<< Day 29](../29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)
 
